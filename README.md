@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+My name is Jonathan Calixto and I'm a fullstack software engineer. I have extensive experience using React and Redux.js in the front-end and Ruby on Rails and Mongoose/MongoDB in the back-end. I have experience creating and implementing a multitude of different technologies such as PostgreSQL, Express, JQuery, Node.js and many others. 
+
+I recently finished a 1000+ hour bootcamp at App Academy, a full-stack web development course with less than 3% acceptance rate where I spent over 80 hours week studying and perfecting my skills in different technologies.
+
+During my free time, I spend it playing video games, catching up on my favorite shows and spending time with my family and friends. I a big fan of reading and an even bigger fan of robotics and new technologies. 
+
+Feel free to shoot me an email at calixto_jonathan@ymail.com
+
+Follow me as well on 
+
+[LinkedIn](https://www.linkedin.com/in/calixtojonathan/)
+[AngelList](https://angel.co/u/jonathan-calixto)
+
+
 <!--
 **jonathan-calixto/jonathan-calixto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
